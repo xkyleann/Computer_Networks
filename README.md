@@ -15,13 +15,13 @@
 | [L7 --> Theoretical Introduction to the ROUTE III Lab ](https://github.com/xkyleann/Computer_Networks/blob/main/L7_Introduction_BGP.md)  | P7 |
 | [L8 --> Theoretical Introduction to the BGP Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L8_Introduction_WAN.md)  | P8                                  |
 | [L9 --> Theoretical Introduction to the WAN Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L9_Introduction_SAN_LAN_MAN.md)  | P9                                                         |
-| [L10 --> --> Theoretical Introduction to the CORE,CAMPUS Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L10_Internet_Protocols.md)  | P10                                |
-| [L11 --> Theoretical Introduction to the SAN,LAN,MAN Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L11_Wireless_Networks.md)  | P11                            |
-| [L12 --> Internet Protocols](https://github.com/xkyleann/Computer_Networks/blob/main/L12_Physical_Media_Computer_Networks.md)  | P12                           |
-| [L13 --> Wireless Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L13_Security_In_Computer_Networks.md)  | P13                            |
-| [L14 --> Physical Media in Computer Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L14_NetworkServices_in_Higher_ISO_OSI_Layers.md)  | P14                            |
-| [L15 --> Security in Computer Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L14_NetworkServices_in_Higher_ISO_OSI_Layers.md)  | P15                            |
-| [L16 --> Network Services in Highere ISO,OSI Layers](https://github.com/xkyleann/Computer_Networks/blob/main/L14_NetworkServices_in_Higher_ISO_OSI_Layers.md)  | P16                            |
+| [L10 --> Theoretical Introduction to the CORE,CAMPUS Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L10_Introduction_CORE_CAMPUS.md)  | P10                                |
+| [L11 --> Theoretical Introduction to the SAN,LAN,MAN Lab](https://github.com/xkyleann/Computer_Networks/blob/main/L11_Introduction_SAN_MAN_LAN.md)  | P11                            |
+| [L12 --> Internet Protocols](https://github.com/xkyleann/Computer_Networks/blob/main/L12_Internet_Protocols.md)  | P12                           |
+| [L13 --> Wireless Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L13_Wireless_Networks.md)  | P13                            |
+| [L14 --> Physical Media in Computer Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L14_Physical_Media_Computer_Networks.md)  | P14                            |
+| [L15 --> Security in Computer Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L15_Security_Computer_Networks.md)  | P15                            |
+| [L16 --> Network Services in Highere ISO,OSI Layers](https://github.com/xkyleann/Computer_Networks/blob/main/L16_Network_Services_ISO_OSI_Layers.md)  | P16                            |
 
 
 ## General info
