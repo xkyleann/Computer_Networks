@@ -23,13 +23,3 @@
 | [L15 --> Security in Computer Networks](https://github.com/xkyleann/Computer_Networks/blob/main/L15_Security_Computer_Networks.md)  | P15                            |
 | [L16 --> Network Services in Highere ISO,OSI Layers](https://github.com/xkyleann/Computer_Networks/blob/main/L16_Network_Services_ISO_OSI_Layers.md)  | P16                            |
 
-
-## General info
-This repo related to "Databases" laboratuar tasks which are related to **_SQL_** and **_PostgreSQL_**.
-
-## All Files 
-- [x] L1_SQL_Language---> [L1_SQL_Language](https://github.com/xkyleann/Databases_Projects/blob/main/L1_SQL_Language.md)
-- [ ] L1_Indexing-------> [L1_Indexing]
-- [x] P1_Indexing-------> [P1_Indexing](https://github.com/xkyleann/Databases_Projects/blob/main/P1_Indexing.md) 
-- [ ] L2_GIS------------> [L2_GIS](https://github.com/Kyleann/Operating-Systems/files/10022441/02.Basic.commands.pdf) 
-- [x] P2_GIS------------> [P2_GIS](https://github.com/xkyleann/Databases_Projects/blob/main/P2_GIS.md)
